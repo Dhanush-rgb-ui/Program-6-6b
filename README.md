@@ -3,6 +3,7 @@
 To write a C program to check given input  is Equal to Zero or not using calloc().
 
 ## For example:
+<img width="257" height="68" alt="image" src="https://github.com/user-attachments/assets/01b20923-a1b8-4cee-a60f-38a892e5269e" />
 
 ## Program:
 ```c
@@ -23,3 +24,4 @@ int main(){
 }
 ```
 ## Result:
+<img width="532" height="190" alt="image" src="https://github.com/user-attachments/assets/e35bcee2-f44a-44f1-be50-e74dcdf3f4b9" />
